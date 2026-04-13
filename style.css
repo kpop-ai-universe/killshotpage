@@ -24,14 +24,14 @@ body {
     align-items: center;
     text-align: center;
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
-    border-bottom: 2px solid #FF1493; /* Ligne rose de séparation */
+    border-bottom: 2px solid #d7539e; /* Ligne rose de séparation */
 }
 
 .band-name {
     font-size: 5rem;
     font-weight: 900;
-    color: #FF1493; /* Rose K-pop */
-    text-shadow: 0 0 20px #FF1493;
+    color: #d7539e; /* Rose K-pop */
+    text-shadow: 0 0 20px #d7539e;
     letter-spacing: 10px;
 }
 
@@ -57,7 +57,7 @@ body {
 
 .concert-card {
     background-color: #0a0a0a;
-    border: 1px solid #FF1493;
+    border: 1px solid #d7539e;
     padding: 40px;
     display: inline-block;
     border-radius: 10px;
@@ -85,20 +85,20 @@ body {
 /* Bouton d'action Rose */
 .cta-button {
     display: inline-block;
-    background-color: #FF1493;
+    background-color: #d7539e;
     color: #ffffff;
     padding: 15px 40px;
     text-decoration: none;
     font-weight: bold;
     border-radius: 50px;
     transition: all 0.3s ease;
-    border: 2px solid #FF1493;
+    border: 2px solid #d7539e;
 }
 
 .cta-button:hover {
     background-color: transparent;
-    color: #FF1493;
-    box-shadow: 0 0 20px #FF1493;
+    color: #d7539e;
+    box-shadow: 0 0 20px #d7539e;
 }
 
 /* Section Musique / Social */
